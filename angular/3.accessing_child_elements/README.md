@@ -61,3 +61,6 @@ To get all the elements, use `ViewChildren`
 
 Content children are the elements which are dynamically added to the template using methods like content projection.
 
+You can use `ContentChild` similar to `ViewChild` except that, you won't be able to refer to instances using the `#ref` notation
+
+The angular lifecycle hook `AfterContentInit: ngAfterContentInit()` could be used to know about the initialization status of content children.
