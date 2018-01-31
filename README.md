@@ -1,15 +1,15 @@
 # Topics
 
-* Different ways to create Objects in Javascript.
-* Javascript Object property descriptors.
-* What are Object prototypes.
-* `this` keyword demystified.
-* Sharing data between components.
-* Content Projection.
-* Accessing child elements.
-* Directives.
-* Host Listener.
-* Host Binding.
+* [Different ways to create Objects in Javascript.](#different-ways-to-create-objects-in-javascript)
+* [Javascript Object property descriptors.](#javascript-object-property-descriptors)
+* [What are Object prototypes.](#object-prototypes)
+* [`this` keyword demystified.](#this-keyword)
+* [Sharing data between components.](angular/1.component_interaction)
+* [Content Projection.](angular/2.content_projection)
+* [Accessing child elements.](angular/3.accessing_child_elements)
+* [Directives.](angular/4.Directives)
+* [Host Listener.](angular/6.host_listener)
+* [Host Binding.](angular/5.host_binding)
 
 ## Different ways to create objects in Javascript
 
